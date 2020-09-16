@@ -14,7 +14,7 @@
 - ⚡ Fun fact - I am funny and that's the fact
 
 <a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=light&hide_langs_below=1" />
 </a>
 
 [![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
