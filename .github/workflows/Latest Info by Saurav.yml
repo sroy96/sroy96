@@ -1,8 +1,11 @@
 name: Push commit
 on:
-  schedule: # Run workflow automatically
+   push:
+    branches:
+      - master
+   schedule: # Run workflow automatically
     - cron: '* * * * *' # Runs every min, on the min
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 jobs:
   report:
     runs-on: ubuntu-latest
