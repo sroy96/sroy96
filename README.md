@@ -1,6 +1,6 @@
 ### Hi, I'm Saurav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/co--founder%40-nsquare.dev-brightgreen)](https://www.nsquare.dev/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Views&color=blue&style=plastic" alt="sroy96" /> </p>
+
 
 
 #### In Short Tech Enthusiast:
