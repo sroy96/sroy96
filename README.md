@@ -2,7 +2,7 @@
 [![Website](https://img.shields.io/badge/co--founder%40-nsquare.dev-brightgreen)](https://www.nsquare.dev/)
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&color=blue&style=plastic" alt="digvijay173" />
+<img src="https://komarev.com/ghpvc/?username=sroy96&label=Views&color=blue&style=plastic" alt="sroy96" />
  </p>
 
 #### In Short Tech Enthusiast:
@@ -13,14 +13,28 @@
 - 🥅 2020 Goal - To start something of my own
 - ⚡ Fun fact - I am funny and that's the fact
 
-<a href="https://github.com/USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=light&hide_langs_below=1" />
-</a>
+### Languages and Tools:
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+
+
+[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+<a href="https://github.com/sroy96">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=light&hide_langs_below=1" />
+</a>
 <br />
 <!-- This section you create this variables that are used above -->
 [website]: https://www.nsquare.dev/
