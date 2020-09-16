@@ -1,9 +1,7 @@
 ### Hi, I'm Saurav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/co--founder%40-nsquare.dev-brightgreen)](https://www.nsquare.dev/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sroy96&label=Views&color=blue&style=plastic" alt="sroy96" /> </p>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=sroy96&label=Views&color=blue&style=plastic" alt="sroy96" />
- </p>
 
 #### In Short Tech Enthusiast:
 - 🔭 I’m currently working in - Karza Technologies
@@ -32,10 +30,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-<a href="https://github.com/sroy96">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=light&hide_langs_below=1" />
-</a>
-<br />
+
 <!-- This section you create this variables that are used above -->
 [website]: https://www.nsquare.dev/
 [linkedin]: https://www.linkedin.com/in/sr96/
