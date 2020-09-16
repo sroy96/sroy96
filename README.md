@@ -25,6 +25,10 @@
 
 
 [![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
+<br />
+<a href="https://github.com/digvijay173">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
+</a>
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,3 +38,6 @@
 <!-- This section you create this variables that are used above -->
 [website]: https://www.nsquare.dev/
 [linkedin]: https://www.linkedin.com/in/sr96/
+
+
+
