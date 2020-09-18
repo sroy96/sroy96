@@ -26,7 +26,7 @@
 
 [![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
 <br />
-<a href="https://github.com/digvijay173">
+<a href="https://github.com/sroy96">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
 </a>
 ## Connect with me:
