@@ -4,11 +4,12 @@
 
 
 #### In Short Tech Enthusiast:
-- 🔭 I’m currently working in - Karza Technologies
-- 🌱 I’m currently learning - Distributed Computing
-- 👯 I’m looking to collaborate with - Other Developers in the community
-- 💬 Ask me about - Microservices
-- 🥅 2020 Goal - To start something of my own
+- 🔭 I’m currently working in - Karza Technologies.
+- 🌱 I’m currently learning - Distributed Computing.
+- 👯 I’m looking to collaborate with - Other Developers in the community.
+- 💬 Ask me about - Microservices.
+- 🥅 2020 Goal - To start something of my own.
+- ⚡ Fun fact - My code never has bugs it just develops random unexpected features.
 
 ### Languages and Tools:
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
