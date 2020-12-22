@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning - Distributed Computing.
 - 👯 I’m looking to collaborate with - Other Developers in the community.
 - 💬 Ask me about - Microservices.
-- 🥅 2020 Goal - To start something of my own.
+- 🥅 Goal - To start something of my own.
 - ⚡ Fun fact - My code never has bugs it just develops random unexpected features.
 
 ### Languages and Tools:
