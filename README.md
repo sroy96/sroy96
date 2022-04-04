@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning - Distributed Systems.
 - 👯 I’m looking to collaborate with - Other Developers in the community.
 - 💬 Ask me about - Development Principals.
-- 🥅 Goal - To start something of my own.
 - ⚡ Fun fact - My code never has bugs it just develops random unexpected features.
 
 ### Languages and Tools:
