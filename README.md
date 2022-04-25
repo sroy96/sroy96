@@ -4,7 +4,7 @@
 
 
 #### In Short Tech Enthusiast:
-- 🔭 I’m currently working in - Karza Technologies.
+- 🔭 I’m currently working in - Acko.
 - 🌱 I’m currently learning - Distributed Systems.
 - 👯 I’m looking to collaborate with - Other Developers in the community.
 - 💬 Ask me about - Development Principals.
