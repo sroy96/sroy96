@@ -4,7 +4,7 @@
 
 
 #### In Short Tech Enthusiast:
-- 🔭 I’m currently working in - Acko.
+- 🔭 I’m currently working in - Razorpay.
 - 🌱 I’m currently learning - Distributed Systems.
 - 👯 I’m looking to collaborate with - Other Developers in the community.
 - 💬 Ask me about - Development Principals.
@@ -23,7 +23,6 @@
 
 
 
-[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sroy96&count_private=true&include_all_commits=true&theme=radical)](https://nsquare.dev)
 <br />
 <a href="https://github.com/sroy96">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
@@ -34,9 +33,6 @@
 <br />
 
 
-<!-- This section you create this variables that are used above -->
-[website]: https://www.nsquare.dev/
-[linkedin]: https://www.linkedin.com/in/sr96/
 
 
 
