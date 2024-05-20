@@ -27,9 +27,7 @@
 <a href="https://github.com/sroy96">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sroy96&theme=tokyonight&layout=compact&" />
 </a>
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 
