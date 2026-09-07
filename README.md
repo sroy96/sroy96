@@ -4,7 +4,7 @@
 
 
 #### In Short Tech Enthusiast:
-- 🔭 I’m currently working in - Razorpay.
+- 🔭 I’m currently working as a Staff Engineer at Flywire
 - 🌱 Expert in - Distributed Systems & Computer Science Engineering.
 - 👯 Open for Co-Founding
 - 💬 Ask me about - Development Principals & Scaling Techniques.
